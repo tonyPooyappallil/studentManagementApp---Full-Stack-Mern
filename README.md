@@ -1,2 +1,1 @@
-# ACKO
-Clone of acko.com
+# studentManagementApp---Full-Stack-Mern 
